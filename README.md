@@ -1,6 +1,9 @@
 # workforce-reporting-and-validation
 An independent Talent Acquisition analytics project exploring workforce reporting, data validation and automation using R and Excel.
 
+# Dashboard 
+<img width="501" height="506" alt="Screenshot 2026-11-25 at 7 30 15 PM" src="https://github.com/user-attachments/assets/3b9b9207-955b-4f56-be2c-1a54fccc2a7e" />
+
 # Project Overview
 I created two synthetic datasets representing a hiring plan and recruitment activity to explore how data discrepancies could be identified automatically and how workforce metrics could be reported in Excel.
 

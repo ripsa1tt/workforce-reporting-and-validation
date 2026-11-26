@@ -1,0 +1,6 @@
+"position_id","department","issue","severity","recommended_action"
+"P008","People & Culture","Missing recruitment record","High","Verify position in recruitment system"
+"P014","Finance","Missing fill date","High","Confirm and record fill date"
+"P025","Digital","Conflicting recruitment status","High","Reconcile hiring and recruitment statuses"
+"P034","People & Culture","Duplicate recruitment record","High","Review and resolve duplicate records"
+"P041","Marketing","Invalid recruitment status","Medium","Review and correct status"

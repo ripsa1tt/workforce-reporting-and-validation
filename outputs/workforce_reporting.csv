@@ -1,0 +1,61 @@
+"position_id","department","plan_status","target_hire_date","recruitment_status","recruitment_start_date","fill_date","last_updated","data_quality","time_to_fill"
+"P001","People & Culture","Approved",2027-01-12,"Recruiting",2026-09-12,NA,2026-11-23,"Passed Checks",NA
+"P002","Finance","On Hold",2027-01-04,"On Hold",NA,NA,2026-11-23,"Passed Checks",NA
+"P003","Finance","Approved",2027-01-19,"Interviewing",2026-10-24,NA,2026-11-18,"Passed Checks",NA
+"P004","People & Culture","Approved",2027-01-20,"Recruiting",2026-09-05,NA,2026-11-23,"Passed Checks",NA
+"P005","Digital","On Hold",2026-11-05,"On Hold",NA,NA,2026-11-21,"Passed Checks",NA
+"P006","Operations","Approved",2026-12-13,"Interviewing",2026-09-01,NA,2026-11-22,"Passed Checks",NA
+"P007","Operations","Approved",2026-11-13,"Offer",2026-10-22,NA,2026-11-18,"Passed Checks",NA
+"P008","People & Culture","Approved",2026-11-10,NA,NA,NA,NA,"Review Required",NA
+"P009","Operations","Approved",2026-12-06,"Not Started",NA,NA,2026-11-21,"Passed Checks",NA
+"P010","Marketing","Approved",2026-11-20,"Recruiting",2026-09-20,NA,2026-11-18,"Passed Checks",NA
+"P011","Marketing","Approved",2026-12-03,"Recruiting",2026-08-26,NA,2026-11-17,"Passed Checks",NA
+"P012","Digital","Approved",2026-12-20,"Offer",2026-10-23,NA,2026-11-16,"Passed Checks",NA
+"P013","People & Culture","Approved",2026-12-11,"Not Started",NA,NA,2026-11-23,"Passed Checks",NA
+"P014","Finance","Approved",2026-12-21,"Filled",2026-10-09,NA,2026-11-21,"Review Required",NA
+"P015","Operations","Approved",2027-01-08,"Not Started",NA,NA,2026-11-19,"Passed Checks",NA
+"P016","Marketing","Approved",2027-01-05,"Offer",2026-10-18,NA,2026-11-16,"Passed Checks",NA
+"P017","Marketing","Approved",2026-12-21,"Filled",2026-10-12,2026-11-08,2026-11-16,"Passed Checks",27
+"P018","Marketing","Approved",2027-01-19,"Interviewing",2026-10-10,NA,2026-11-22,"Passed Checks",NA
+"P019","People & Culture","Approved",2026-11-06,"Offer",2026-10-24,NA,2026-11-20,"Passed Checks",NA
+"P020","People & Culture","Approved",2026-12-15,"Interviewing",2026-09-30,NA,2026-11-22,"Passed Checks",NA
+"P021","Operations","Approved",2026-12-20,"Recruiting",2026-09-09,NA,2026-11-22,"Passed Checks",NA
+"P022","People & Culture","Approved",2026-11-30,"Recruiting",2026-09-29,NA,2026-11-23,"Passed Checks",NA
+"P023","Digital","Approved",2027-01-14,"Filled",2026-10-21,2026-11-07,2026-11-21,"Passed Checks",17
+"P024","Operations","Approved",2026-12-06,"Interviewing",2026-09-20,NA,2026-11-21,"Passed Checks",NA
+"P025","Digital","Cancelled",2027-01-16,"Recruiting",2026-10-14,NA,2026-11-18,"Review Required",NA
+"P026","Digital","On Hold",2026-10-25,"On Hold",NA,NA,2026-11-18,"Passed Checks",NA
+"P027","Marketing","Approved",2026-12-15,"Interviewing",2026-09-18,NA,2026-11-23,"Passed Checks",NA
+"P028","People & Culture","Approved",2026-12-30,"Recruiting",2026-08-31,NA,2026-11-23,"Passed Checks",NA
+"P029","Operations","Approved",2026-11-23,"Filled",2026-10-16,2026-11-08,2026-11-21,"Passed Checks",23
+"P030","Marketing","Approved",2026-12-15,"Not Started",NA,NA,2026-11-17,"Passed Checks",NA
+"P031","Marketing","Approved",2026-11-26,"Offer",2026-10-19,NA,2026-11-17,"Passed Checks",NA
+"P032","People & Culture","Approved",2026-12-18,"Filled",2026-10-07,2026-10-29,2026-11-17,"Passed Checks",22
+"P033","Operations","Approved",2027-01-01,"Interviewing",2026-09-12,NA,2026-11-18,"Passed Checks",NA
+"P034","People & Culture","Approved",2026-12-09,"Filled",2026-10-06,2026-10-20,2026-11-16,"Review Required",14
+"P035","People & Culture","Approved",2026-11-15,"Not Started",NA,NA,2026-11-18,"Passed Checks",NA
+"P036","Finance","Approved",2026-12-18,"Recruiting",2026-09-19,NA,2026-11-21,"Passed Checks",NA
+"P037","Operations","Approved",2026-11-09,"Filled",2026-10-16,2026-11-05,2026-11-17,"Passed Checks",20
+"P038","People & Culture","Approved",2026-10-27,"Recruiting",2026-09-10,NA,2026-11-20,"Passed Checks",NA
+"P039","Finance","Approved",2026-12-18,"Interviewing",2026-09-04,NA,2026-11-16,"Passed Checks",NA
+"P040","People & Culture","Approved",2027-01-19,"Filled",2026-08-31,2026-09-27,2026-11-17,"Passed Checks",27
+"P041","Marketing","Approved",2026-11-03,"In Progess",2026-10-14,NA,2026-11-19,"Review Required",NA
+"P042","Finance","Approved",2026-11-14,"Filled",2026-08-29,2026-09-16,2026-11-22,"Passed Checks",18
+"P043","Digital","Approved",2026-10-29,"Interviewing",2026-10-23,NA,2026-11-20,"Passed Checks",NA
+"P044","Marketing","Approved",2026-11-14,"Interviewing",2026-10-23,NA,2026-11-22,"Passed Checks",NA
+"P045","People & Culture","Approved",2026-11-30,"Recruiting",2026-10-13,NA,2026-11-23,"Passed Checks",NA
+"P046","People & Culture","Approved",2026-11-25,"Recruiting",2026-09-18,NA,2026-11-17,"Passed Checks",NA
+"P047","Digital","Approved",2026-11-21,"Filled",2026-09-01,2026-09-30,2026-11-16,"Passed Checks",29
+"P048","People & Culture","Approved",2026-12-30,"Filled",2026-09-01,2026-09-24,2026-11-21,"Passed Checks",23
+"P049","Operations","On Hold",2026-11-11,"On Hold",NA,NA,2026-11-23,"Passed Checks",NA
+"P050","Finance","Approved",2026-12-29,"Filled",2026-10-04,2026-11-02,2026-11-23,"Passed Checks",29
+"P051","Finance","Approved",2026-12-25,"Filled",2026-08-30,2026-09-22,2026-11-19,"Passed Checks",23
+"P052","Digital","Approved",2026-10-28,"Recruiting",2026-09-24,NA,2026-11-21,"Passed Checks",NA
+"P053","People & Culture","Approved",2027-01-01,"Filled",2026-09-03,2026-09-26,2026-11-22,"Passed Checks",23
+"P054","People & Culture","Approved",2027-01-14,"Offer",2026-10-13,NA,2026-11-16,"Passed Checks",NA
+"P055","Finance","Approved",2026-11-07,"Filled",2026-08-28,2026-09-16,2026-11-20,"Passed Checks",19
+"P056","Operations","Approved",2027-01-05,"Filled",2026-08-28,2026-09-25,2026-11-22,"Passed Checks",28
+"P057","Finance","Approved",2027-01-01,"Offer",2026-09-03,NA,2026-11-17,"Passed Checks",NA
+"P058","Operations","Approved",2026-12-05,"Interviewing",2026-09-23,NA,2026-11-23,"Passed Checks",NA
+"P059","Finance","On Hold",2026-12-17,"On Hold",NA,NA,2026-11-22,"Passed Checks",NA
+"P060","Finance","Approved",2026-11-28,"Recruiting",2026-08-30,NA,2026-11-16,"Passed Checks",NA
